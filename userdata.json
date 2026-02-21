@@ -1,0 +1,86 @@
+{
+  "users": [
+    {
+      "userID": "Cu3BBiC8lDUebqaRt1i1bYBLMPi2",
+      "email": "arifalam5841@gmail.com",
+      "createdAt": "2026-02-21T17:25:25.849Z",
+      "updatedAt": "2026-02-21T21:20:34.564Z",
+      "codeRuns": [
+        {
+          "id": "1771694766338-bd0d51",
+          "time": "2026-02-21T17:26:06.338Z",
+          "language": "python",
+          "code": "# Countdown from 10\nx = 10\n\nwhile x > 0\n  print x\n  x = x - 1\nend\nprint 0\n"
+        },
+        {
+          "id": "1771696918989-4ee103",
+          "time": "2026-02-21T18:01:58.989Z",
+          "language": "c",
+          "code": "#include <stdio.h>\n\nint main() {\n    int x = 2;\n    int y = 5;\n\n    printf(\"Sum = %d\\n\", x + y);\n    return 0;\n}"
+        },
+        {
+          "id": "1771697020713-9d587f",
+          "time": "2026-02-21T18:03:40.713Z",
+          "language": "java",
+          "code": "public class Main {\n  public static void main(String[] args) {\n    int n = 5;\n    int fact = 1;\n\n    while (n > 0) {\n      fact = fact * n;\n      n = n - 1;\n    }\n\n    System.out.println(fact);\n\n    int a = 10;\n    int b = 3;\n    int sum = a + b;\n    int diff = a - b;\n\n    System.out.println(sum);\n\n    if (sum > diff) {\n      System.out.println(1);\n    } else {\n      System.out.println(0);\n    }\n  }\n}\n"
+        },
+        {
+          "id": "1771697273075-66d8db",
+          "time": "2026-02-21T18:07:53.075Z",
+          "language": "python",
+          "code": "# Countdown from 10\nx = 10\n\nwhile x > 0\n  print x\n  x = x - 1\nend\nprint 0\n"
+        },
+        {
+          "id": "1771701799753-528030",
+          "time": "2026-02-21T19:23:19.753Z",
+          "language": "python",
+          "code": "# Sum, condition, and countdown\na = 7\nb = 4\nsum = a + b\nproduct = a * b\n\nprint sum\nprint product\n\nif product > sum\n  print 1\nelse\n  print 0\nend\n\nwhile a > 0\n  print a\n  a = a - 1\nend\n"
+        }
+      ]
+    },
+    {
+      "userID": "txPyigAOi4cxnFyEHqWETbGgJxv2",
+      "email": "zaidbharde123@gmail.com",
+      "createdAt": "2026-02-21T18:08:26.097Z",
+      "updatedAt": "2026-02-21T19:26:14.001Z",
+      "codeRuns": [
+        {
+          "id": "1771697321856-171b16",
+          "time": "2026-02-21T18:08:41.856Z",
+          "language": "python",
+          "code": "# Countdown from 10\nx = 10\n\nwhile x > 0\n  print x\n  x = x - 1\nend\nprint 0\n"
+        },
+        {
+          "id": "1771697438521-53aafd",
+          "time": "2026-02-21T18:10:38.521Z",
+          "language": "python",
+          "code": "# Countdown from 10\nx = 10\n\nwhile x > 0\n  print x\n  x = x - 1\nend\nprint 0\n"
+        },
+        {
+          "id": "1771697445653-bdb358",
+          "time": "2026-02-21T18:10:45.653Z",
+          "language": "python",
+          "code": "# Countdown from 10\nx = 10\n\nwhile x > 0\n  print x\n  x = x - 1\nend\nprint 0\n"
+        },
+        {
+          "id": "1771701834152-66efaf",
+          "time": "2026-02-21T19:23:54.152Z",
+          "language": "python",
+          "code": "# Sum, condition, and countdown\na = 7\nb = 4\nsum = a + b\nproduct = a * b\n\nprint sum\nprint product\n\nif product > sum\n  print 1\nelse\n  print 0\nend\n\nwhile a > 0\n  print a\n  a = a - 1\nend\n"
+        },
+        {
+          "id": "1771701876005-dacd33",
+          "time": "2026-02-21T19:24:36.005Z",
+          "language": "java",
+          "code": "public class Main {\n  public static void main(String[] args) {\n    int a = 7;\n    int b = 4;\n    int sum = a + b;\n    int product = a * b;\n\n    System.out.println(sum);\n    System.out.println(product);\n\n    if (product > sum) {\n      System.out.println(1);\n    } else {\n      System.out.println(0);\n    }\n\n    while (a > 0) {\n      System.out.println(a);\n      a = a - 1;\n    }\n  }\n}\n"
+        },
+        {
+          "id": "1771701974001-54bb83",
+          "time": "2026-02-21T19:26:14.001Z",
+          "language": "java",
+          "code": "public class Main {\n  public static void main(String[] args) {\n    int a = 7;\n    int b = 4;\n    int sum = a + b;\n    int product = a * b;\n\n    System.out.println(sum);\n    System.out.println(product);\n\n    if (product > sum) {\n      System.out.println(1);\n    } else {\n      System.out.println(0);\n    }\n\n    while (a > 0) {\n      System.out.println(a);\n      a = a - 1;\n    }\n  }\n}\n"
+        }
+      ]
+    }
+  ]
+}
